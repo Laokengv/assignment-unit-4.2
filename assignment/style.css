@@ -1,4 +1,6 @@
-
+body {
+    background-image: linear-gradient(to right, purple, hotpink);
+}
 
 h1 {
     text-align: center;
